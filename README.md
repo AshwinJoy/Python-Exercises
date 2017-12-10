@@ -1,2 +1,2 @@
 # Python-Projects
-Some small projects created while learning Python
+Some exercises done while learning Python
